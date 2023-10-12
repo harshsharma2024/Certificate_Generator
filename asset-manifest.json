@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Certificate_Generator/static/css/main.9d979e95.css",
+    "main.js": "/Certificate_Generator/static/js/main.6160dbed.js",
+    "index.html": "/Certificate_Generator/index.html",
+    "main.9d979e95.css.map": "/Certificate_Generator/static/css/main.9d979e95.css.map",
+    "main.6160dbed.js.map": "/Certificate_Generator/static/js/main.6160dbed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d979e95.css",
+    "static/js/main.6160dbed.js"
+  ]
+}
